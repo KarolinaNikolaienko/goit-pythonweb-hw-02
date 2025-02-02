@@ -2,11 +2,11 @@
 
 Створіть віртуальне оточення то встановіть необхідні бібліотеки
 
-[//]: # (```bash)
+```bash
 
-[//]: # (pip install -r requirements.txt)
+pip install -r requirements.txt
 
-[//]: # (```)
+```
 
 Запуск:
 
