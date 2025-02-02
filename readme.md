@@ -1,16 +1,15 @@
 # ДЗ Тема: Основи технології  Docker
 
-Створіть віртуальне оточення то встановіть необхідні бібліотеки
-
+Запустити створення контейнера
 ```bash
 
-pip install -r requirements.txt
+docker-compose up -d
 
 ```
 
-Запуск:
+Перейти за посиланням
 
 ```bash 
-python main.py
+http://localhost:8000/
 ```
 
